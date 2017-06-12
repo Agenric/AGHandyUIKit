@@ -6,7 +6,7 @@
 //  Copyright © 2016年 Agenric. All rights reserved.
 //
 
-#import "UIView+AGCategory.H"
+#import "UIView+AGCategory.h"
 
 @implementation UIView (XibConfiguration)
 
